@@ -1,0 +1,4 @@
+PyMuPDF==1.22.3
+pillow==9.3.0
+pytesseract==0.3.10
+reportlab==3.6.12
